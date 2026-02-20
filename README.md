@@ -1,4 +1,4 @@
-# CI/CD Practice - React Project
+# CI/CD Practice - React Project...
 
 A basic React project with comprehensive test cases, set up for CI/CD practice.
 
